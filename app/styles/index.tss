@@ -1,0 +1,43 @@
+".container": {
+	backgroundColor: "white"
+},
+"#title": {
+	backgroundGradient:{
+		type: 'linear',
+		startPoint: {
+			x: '0%',
+			y: '0%'
+		},
+		endPoint: {
+			x: '0%',
+			y: '100%'
+		},
+		colors: ['#444444', '#555555']
+	},
+	font: {
+		fontFamily: 'Helvetica Neue',
+		fontSize: '20dp',
+		fontStyle: 'normal',
+		fontWeight: 'normal'
+	},
+	top: 0,
+	width: Ti.UI.FILL,
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	height: 46,
+	color: "white"
+},
+"#inputNew": {
+	top: 46,
+	width: Ti.UI.FILL,
+	height: 46,
+	borderRadius: 1,
+	borderStyle: Ti.UI.INPUT_BORDERSTYLE_BEZEL,
+	font: {
+		fontFamily: 'Helvetica Neue',
+		fontSize: '20dp',
+		fontStyle: 'normal',
+		fontWeight: 'normal'
+	}
+}
+"#itemsList": {
+top : 92}

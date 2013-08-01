@@ -1,0 +1,10 @@
+<Alloy>
+	<Collection src="todo" />
+	<Window class="container" navBarHidden="true">
+		<Label id="title">Ma liste de courses</Label>
+		<TextField id="inputNew" hintText="Nouveau ..." onFocus="emptyInput" onReturn="submit"></TextField>
+		<TableView id="itemsList" dataCollection="todo">
+			<TableViewRow/>
+		</TableView>
+	</Window>
+</Alloy>
