@@ -1,13 +1,25 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Appcelerator Titanium Mobile Project : Liste DE courses
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
+This is a project, illustrating "First Jump into Titanium Alloy" Article.
 
 
+Don't hesitate to fork or use the code :D
 ----------------------------------
-Stuff our legal folk make us say:
+Copyright 2013 Souhail Hanfi
 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+-----------------------------------
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
 
@@ -15,4 +27,3 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
-
